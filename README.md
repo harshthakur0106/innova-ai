@@ -81,7 +81,7 @@ Innova is licensed under the MIT License - see the [LICENSE](LICENSE) file for d
 
 If you have any questions or suggestions, feel free to contact us at:
 
-- Email: ayushkatre1801@gmail.com
+- Email: ht5571601@gmail.com
 
 ---
 
