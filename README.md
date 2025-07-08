@@ -18,7 +18,7 @@ Follow these steps to start using Innova:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/AyushKatre05/innova.git
+    git clone https://github.com/harshthakur0106/innova.git
     cd innova
     ```
 
